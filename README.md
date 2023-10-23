@@ -1,2 +1,2 @@
-# cpp
-This is the best repositor for c++ beginers
+// cpp
+//This is the best repositor for c++ beginers
