@@ -4,7 +4,7 @@
 
 int main() {
     // Writing to a file
-    std::ofstream outFile("example.txt");
+     std::ofstream outFile("example.txt");
     if (outFile.is_open()) {
         outFile << "Hello, this is a test file." << std::endl;
         outFile.close();
